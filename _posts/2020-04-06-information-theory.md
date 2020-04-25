@@ -19,4 +19,4 @@ A. Series of numbers
 Q. How about texts? Those are information but not a series of numers
 ex) APPLE, BANANA
 
-A. It seems a series of objects can be information
+A. A series of objects is information
