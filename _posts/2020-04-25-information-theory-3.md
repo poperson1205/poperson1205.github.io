@@ -12,7 +12,7 @@ Q. What is Markov chain?
 
 A. This video helped me a lot understanding markov chain.
 
-Origin of Markov chains, Khan Academy: https://youtu.be/Ws63I3F7Moc>
+Origin of Markov chains, Khan Academy: <https://youtu.be/Ws63I3F7Moc>
 
 The theory inventors might be: Bernoulli &rarr; Markov &rarr; Shannon
 
